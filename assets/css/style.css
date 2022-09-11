@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.game-hot,
+.lottery{
+    background-color: #004080;
+}
+.main-box-game-hot .column .box{
+    transition: transform 0.3s;
+}
+.main-box-game-hot .column .box:hover{
+    transform: scale(1.06);
+}
+.main-banner .left h1{
+    color: #FFFFFF;
+    text-shadow: #474747 3px 5px 2px;
+    color: #FFFFFF;
+}
+.download{
+    transition: transform 0.3s;
+}
+.download:hover{
+    transform: scale(1.05);
+}
+.header .open-menu,
+.header .close-menu{
+    display: none;
+}
