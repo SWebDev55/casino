@@ -114,6 +114,204 @@
     .user-member{
         display: block;
     }
+
+    /* page live */
+    .live-banner{
+        width: 100%;
+        height: 120px;
+    }
+    .live-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .live{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .live .main-box-live{
+        padding: 0px !important;
+    }
+    .live .main-box-live .column{
+        width: 33.3%;
+        padding: 2px !important;
+    }
+    .live .main-box-live .column .play-btn{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .live .main-box-live .column .play-btn p{
+        font-size: 8px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+    .live .main-box-live .column .play-btn i{
+        font-size: 10px !important;
+    }
+
+
+    /* page slot */
+    .slot-banner{
+        width: 100%;
+        height: 80px;
+    }
+    .slot-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .slot{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column{
+        width: 33.3%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .box-slot .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .title{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .slot .main-box-slot .column .title p{
+        font-size: 10px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+
+
+    /* page  poker */
+    .poker-banner{
+        width: 100%;
+        height: 80px;
+    }
+    .poker-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .poker{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column{
+        width: 50%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column .box-poker .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+
+    /* page fish */
+    .fish-banner{
+        width: 100%;
+        height: 80px;
+    }
+    .fish-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .fish{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column{
+        width: 33.3%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column .box-fish .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+
+    /* page contact */
+    .main-box-contact .box{
+        width: 100%;
+        padding: 10px !important;
+        display: block;
+    }
+    .main-box-contact .box form,
+    .main-box-contact .box .map{
+        width: 100%;
+        padding: 10px 0px;
+    }
+    .main-box-contact .box form button{
+        padding: 10px;
+    }
+    .main-box-contact .box .map{
+        height: 300px;
+    }
+
+    /* page lottery */
+    .main-lottery .main-box{
+        width: 100%;
+        padding: 10px !important;
+        border-radius: 0px !important;
+    }
+    .main-lottery .main-box .box{
+        display: block;
+    }
+    .main-lottery .main-box .box .box-lottery{
+        width: 100%;
+        padding: 0px !important;
+        display: inline-block;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1{
+        padding: 0px;
+        display: block;
+        width: 95%;
+        margin: auto;
+        text-align: center;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 p{
+        width: 60px;
+        margin: 10px 0px;
+        padding: 0px;
+        font-size: 12px;
+        padding: 5px 0px;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul li{
+        width: 22px;
+        height: 22px;
+        font-size: 13px;
+        margin: 0px 3px;
+    }
+    
 }
 
 
@@ -234,6 +432,200 @@
     .user-member{
         display: block;
     }
+    /* page live */
+    .live-banner{
+        width: 100%;
+        height: 150px;
+    }
+    .live-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .live{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .live .main-box-live{
+        padding: 0px !important;
+    }
+    .live .main-box-live .column{
+        width: 25%;
+        padding: 2px !important;
+    }
+    .live .main-box-live .column .play-btn{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .live .main-box-live .column .play-btn p{
+        font-size: 8px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+    .live .main-box-live .column .play-btn i{
+        font-size: 10px !important;
+    }
+
+    /* page slot */
+    .slot-banner{
+        width: 100%;
+        height: 120px;
+    }
+    .slot-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .slot{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column{
+        width: 33.3%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .box-slot .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .title{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .slot .main-box-slot .column .title p{
+        font-size: 13px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+
+
+    /* page  poker */
+    .poker-banner{
+        width: 100%;
+        height: 80px;
+    }
+    .poker-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .poker{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column{
+        width: 33.3%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column .box-poker .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+     /* page fish */
+     .fish-banner{
+        width: 100%;
+        height: 100px;
+    }
+    .fish-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .fish{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column{
+        width: 33.3%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column .box-fish .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+    /* page contact */
+    .main-box-contact .box{
+        width: 100%;
+        padding: 10px !important;
+        display: block;
+    }
+    .main-box-contact .box form,
+    .main-box-contact .box .map{
+        width: 100%;
+        padding: 10px 0px;
+    }
+    .main-box-contact .box form button{
+        padding: 10px;
+    }
+    .main-box-contact .box .map{
+        height: 300px;
+    }
+
+    /* page lottery */
+    .main-lottery .main-box{
+        width: 100%;
+        padding: 10px !important;
+        border-radius: 0px !important;
+    }
+    .main-lottery .main-box .box{
+        display: block;
+    }
+    .main-lottery .main-box .box .box-lottery{
+        width: 100%;
+        padding: 0px !important;
+        display: inline-block;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1{
+        padding: 0px;
+        display: block;
+        width: 95%;
+        margin: auto;
+        text-align: center;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 p{
+        width: 60px;
+        margin: 10px 0px;
+        padding: 0px;
+        font-size: 12px;
+        padding: 5px 0px;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul li{
+        width: 32px;
+        height: 32px;
+        font-size: 13px;
+        margin: 0px 3px;
+    }
+
 }
 
 
@@ -342,6 +734,191 @@
     .user-member{
         display: block;
     }
+
+    /* page live */
+    .live-banner{
+        width: 100%;
+        height: 180px;
+    }
+    .live-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .live{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .live .main-box-live{
+        padding: 0px !important;
+    }
+    .live .main-box-live .column{
+        width: 20%;
+        padding: 2px !important;
+    }
+    .live .main-box-live .column .play-btn{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .live .main-box-live .column .play-btn p{
+        font-size: 8px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+    .live .main-box-live .column .play-btn i{
+        font-size: 10px !important;
+    }
+
+
+     /* page slot */
+     .slot-banner{
+        width: 100%;
+        height: 120px;
+    }
+    .slot-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .slot{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column{
+        width: 20%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .box-slot .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .title{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .slot .main-box-slot .column .title p{
+        font-size: 10px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+
+     /* page  poker */
+     .poker-banner{
+        width: 100%;
+        height: 120px;
+    }
+    .poker-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .poker{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column{
+        width: 33.3%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column .box-poker .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+     /* page fish */
+     .fish-banner{
+        width: 100%;
+        height: 150px;
+    }
+    .fish-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .fish{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column{
+        width: 33.3%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column .box-fish .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+    /* page contact */
+    .main-box-contact .box{
+        width: 100%;
+        padding: 10px !important;
+    }
+    .main-box-contact .box form,
+    .main-box-contact .box .map{
+        width: 100%;
+        padding: 10px;
+    }
+
+    /* page lottery */
+    .main-lottery .main-box{
+        width: 100%;
+        padding: 10px !important;
+        border-radius: 0px !important;
+    }
+    .main-lottery .main-box .box{
+        display: block;
+    }
+    .main-lottery .main-box .box .box-lottery{
+        width: 100%;
+        padding: 0px !important;
+        display: inline-block;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1{
+        padding: 0px;
+        width: 100%;
+        display: inline-block;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 p{
+        width:100px;
+        margin: 10px 0px;
+        padding: 0px;
+        font-size: 18px;
+        padding: 5px 0px;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul li{
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+        margin: 0px 3px;
+    }
 }
 
 
@@ -431,5 +1008,182 @@
     }
     .detail .main-box .box .box-img img{
         width: 100%;
+    }
+
+    /* page live */
+    .live{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+    }
+    .live .main-box-live{
+        padding: 0px !important;
+    }
+    .live .main-box-live .column{
+        width: 20%;
+        padding: 2px !important;
+    }
+    .live .main-box-live .column .play-btn{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .live .main-box-live .column .play-btn p{
+        font-size: 12px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+    .live .main-box-live .column .play-btn i{
+        font-size: 15px !important;
+    }
+
+     /* page slot */
+     .slot-banner{
+        width: 100%;
+        height: 160px;
+    }
+    .slot-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .slot{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column{
+        width: 20%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .box-slot .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+    .slot .main-box-slot .column .title{
+        width: 100%;
+        padding: 0px 4px !important;
+        bottom: 10px;
+    }
+    .slot .main-box-slot .column .title p{
+        font-size: 12px !important;
+        padding: 0px 5px !important;
+        height: 30px;
+    }
+
+     /* page  poker */
+    .poker-banner{
+        width: 100%;
+        height: 160px;
+    }
+    .poker-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .poker{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column{
+        width: 20%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .poker .main-box-poker .column .box-poker .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+
+     /* page fish */
+     .fish-banner{
+        width: 100%;
+        height: 180px;
+    }
+    .fish-banner img{
+        width: 100%;
+        height: 100%;
+    }
+    .fish{
+        width: 100%;
+        padding: 0px !important;
+        margin: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish{
+        padding: 0px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column{
+        width: 20%;
+        padding: 2px !important;
+        border-radius: 0px;
+    }
+    .fish .main-box-fish .column .box-fish .images{
+        padding: 5px;
+        border-radius: 0px;
+    }
+
+      /* page contact */
+      .main-box-contact .box{
+        width: 100%;
+        padding: 10px !important;
+    }
+    .main-box-contact .box form,
+    .main-box-contact .box .map{
+        width: 100%;
+    }
+
+
+    /* page lottery */
+    .main-lottery .main-box{
+        width: 100%;
+        padding: 10px !important;
+        border-radius: 0px !important;
+    }
+    .main-lottery .main-box .box{
+        display: block;
+    }
+    .main-lottery .main-box .box .box-lottery{
+        width: 100%;
+        padding: 0px !important;
+        display: inline-block;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1{
+        padding: 0px;
+        width: 100%;
+        display: inline-block;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 p{
+        width:100px;
+        margin: 10px 0px;
+        padding: 0px;
+        font-size: 18px;
+        padding: 5px 0px;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul{
+        width: 100%;
+        text-align: center;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .main-lottery .main-box .box .box-lottery .box-1 ul li{
+        width: 50px;
+        height: 50px;
+        font-size: 18px;
+        margin: 0px 3px;
     }
 }
